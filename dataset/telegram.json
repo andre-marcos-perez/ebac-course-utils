@@ -1,0 +1,21 @@
+{
+    "update_id": 123,
+    "message": {
+        "message_id": 1,
+        "from": {
+            "id": 321,
+            "is_bot": false,
+            "first_name": "Andre",
+            "last_name": "Perez",
+            "username": "andreperez"
+        },
+        "chat": {
+            "id": -789,
+            "title": "Modulo 43 EBAC",
+            "type": "group",
+            "all_members_are_administrators": true
+        },
+        "date": 1640995200,
+        "text": "Ola, mundo!"
+    }
+}
